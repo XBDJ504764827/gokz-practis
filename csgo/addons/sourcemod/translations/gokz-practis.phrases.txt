@@ -1,0 +1,88 @@
+"Phrases"
+{
+	"Practis Menu - Title"
+	{
+		"en"		"Practis"
+		"chi"		"练习点"
+	}
+	"Practis Menu - Open"
+	{
+		"en"		"Open Practis"
+		"chi"		"打开 Practis"
+	}
+	"Practis Menu - Save"
+	{
+		"en"		"Save Position"
+		"chi"		"存点"
+	}
+	"Practis Menu - Current"
+	{
+		"en"		"Load Current"
+		"chi"		"读取当前点"
+	}
+	"Practis Menu - Prev"
+	{
+		"en"		"Previous Save"
+		"chi"		"上一个存点"
+	}
+	"Practis Menu - Next"
+	{
+		"en"		"Next Save"
+		"chi"		"下一个存点"
+	}
+	"Practis Menu - Exit"
+	{
+		"en"		"Exit"
+		"chi"		"退出当前菜单"
+	}
+	"Practis Failure - Open Menu"
+	{
+		"en"		"[Practis] Cannot open the menu right now."
+		"chi"		"[Practis] 当前无法打开菜单."
+	}
+	"Practis Failure - Invalid Client"
+	{
+		"en"		"[Practis] You cannot use that right now."
+		"chi"		"[Practis] 当前无法使用该功能."
+	}
+	"Practis Failure - Spectator"
+	{
+		"en"		"{darkred}You cannot use Practis while spectating."
+		"chi"		"{darkred}观察时不能使用练习点."
+	}
+	"Practis Failure - No Saves"
+	{
+		"en"		"{darkred}You have no saved positions."
+		"chi"		"{darkred}你还没有存点."
+	}
+	"Practis Failure - First"
+	{
+		"en"		"{darkred}You are already at the first saved position."
+		"chi"		"{darkred}已经是第一个存点."
+	}
+	"Practis Failure - Last"
+	{
+		"en"		"{darkred}You are already at the last saved position."
+		"chi"		"{darkred}已经是最后一个存点."
+	}
+	"Practis Save Success"
+	{
+		"en"		"{grey}Saved position."
+		"chi"		"{grey}存点成功."
+	}
+	"Practis Load Current Success"
+	{
+		"en"		"{grey}Loaded current saved position."
+		"chi"		"{grey}读当前存点成功."
+	}
+	"Practis Load Prev Success"
+	{
+		"en"		"{grey}Loaded previous saved position."
+		"chi"		"{grey}已切换到上一个存点."
+	}
+	"Practis Load Next Success"
+	{
+		"en"		"{grey}Loaded next saved position."
+		"chi"		"{grey}已切换到下一个存点."
+	}
+}
